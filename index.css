@@ -1,0 +1,46 @@
+body {
+
+margin: 0px;
+
+}
+
+
+header nav h1{
+
+    margin:0px;
+    width: 43%;
+    display: inline-block;
+}
+
+header {
+
+    background: #020202;
+    color: white;
+}
+
+header nav ul {
+
+    width: 40%;
+    display: inline-block;
+}
+
+header nav ul li {
+
+    width: 40%;
+    display: inline-block;
+}
+
+
+header nav ul li a {
+
+    color: white
+
+}
+
+footer {
+
+    background-image: url("./img/playa.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
